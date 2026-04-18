@@ -64,13 +64,4 @@ const cinnamon = {
 </p>
 
 ---
-
-### 🔗 Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="mailto:sarkar10000000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
 <p align="center"><i>"Talk is cheap. Show me the code." — Linus Torvalds</i></p>
