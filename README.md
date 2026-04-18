@@ -14,8 +14,8 @@
 
 ```ts
 const cinnamon = {
-  role: "Developer",
-  stack: ["TypeScript", "Python", "React", "Node", "Postgres"],
+  role: "Student | Developer | Writer",
+  stack: ["TypeScript", "Python", "React", "Node", "Postgres", "Kotlin", "Flutter", "Rest"],
   currentlyLearning: ["Rust", "Distributed Systems"],
   hobbies: ["open source", "chess", "writing"],
   motto: "Ship > perfect.",
